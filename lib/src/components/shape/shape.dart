@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:meiuca_challenge/src/tokens/borders/border_width.dart';
-import 'package:meiuca_challenge/src/tokens/borders/meiuca_border_radius.dart';
+import 'package:meiuca_challenge/src/tokens/global/borders/border_width.dart';
+import 'package:meiuca_challenge/src/tokens/global/borders/meiuca_border_radius.dart';
 import 'package:meiuca_challenge/src/tokens/colors/neutral_colors.dart';
-import 'package:meiuca_challenge/src/tokens/spacing/stpacing_inset.dart';
+import 'package:meiuca_challenge/src/tokens/global/spacing/stpacing_inset.dart';
 
 class Shape extends StatelessWidget {
   const Shape({super.key, required this.content});

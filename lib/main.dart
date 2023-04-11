@@ -5,7 +5,7 @@ import 'package:meiuca_challenge/src/components/shape/shape.dart';
 import 'package:meiuca_challenge/src/components/texts/heading_small.dart';
 import 'package:meiuca_challenge/src/components/texts/paragraph.dart';
 import 'package:meiuca_challenge/src/components/texts/subtitle_small.dart';
-import 'package:meiuca_challenge/src/tokens/spacing/spacing_stack.dart';
+import 'package:meiuca_challenge/src/tokens/global/spacing/spacing_stack.dart';
 
 void main() => runApp(const MyApp());
 
