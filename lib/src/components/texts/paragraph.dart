@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:meiuca_challenge/src/tokens/colors/neutral_colors.dart';
-import 'package:meiuca_challenge/src/tokens/fonts/font_size.dart';
-import 'package:meiuca_challenge/src/tokens/fonts/line_height.dart';
+import 'package:meiuca_challenge/src/tokens/brand/colors/neutral_colors.dart';
+import 'package:meiuca_challenge/src/tokens/brand/fonts/font_size.dart';
+import 'package:meiuca_challenge/src/tokens/brand/fonts/line_height.dart';
 import 'package:meiuca_challenge/src/tokens/global/fonts/brand_font_weight.dart';
 
 class Paragraph extends StatelessWidget {
